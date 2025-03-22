@@ -2,24 +2,25 @@
 
 🚀 Mugen Key is a simple yet powerful Chrome extension that enhances web accessibility by allowing users to navigate through interactive elements using keyboard shortcuts. It highlights the selected element with a circular glow effect, making it easier to track focus across the webpage. Use this if you also are tired and annoyed by repeatedly prompted to use your mouse on certain websites. 
 
+
 ✨ Features
-✔️ Toggle Activation – Easily enable or disable the extension with a single button inside the popup menu.
-✔️ Customizable Colors & Thickness – Adjust the highlight color and thickness for better visibility.
-✔️ Keyboard Navigation – Use Ctrl + Arrow Keys to jump to the nearest element in any direction.
-✔️ Auto Focus Tracking – The highlight moves automatically when navigating via the Tab key.
+-✔️ Toggle Activation – Easily enable or disable the extension with a single button inside the popup menu.
+-✔️ Customizable Colors & Thickness – Adjust the highlight color and thickness for better visibility.
+-✔️ Keyboard Navigation – Use Ctrl + Arrow Keys to jump to the nearest element in any direction.
+-✔️ Auto Focus Tracking – The highlight moves automatically when navigating via the Tab key.
 
 📌 How It Works
-1️⃣ Activate the Extension
+-1️⃣ Activate the Extension
 
 Click the activation button inside the popup menu to enable or disable the highlight effect.
 
-2️⃣ Customize the Highlight
+-2️⃣ Customize the Highlight
 
 Use the color picker to change the highlight color.
 
 Adjust the thickness slider to modify the border size.
 
-3️⃣ Navigate Easily
+-3️⃣ Navigate Easily
 
 Use Tab to move through elements while keeping focus.
 
@@ -48,9 +49,9 @@ JavaScript (Vanilla) – Core functionality and DOM manipulation.
 Chrome Extensions API – Communication between popup and content scripts.
 
 📝 Roadmap (Future Updates)
-🔹 Add support for custom animation effects in highlights.
-🔹 Implement sound notifications for accessibility users.
-🔹 Provide user preferences syncing across devices.
+-🔹 Add support for custom animation effects in highlights.
+-🔹 Implement sound notifications for accessibility users.
+-🔹 Provide user preferences syncing across devices.
 
 📜 License
 This project is licensed under the MIT License – feel free to use and modify it.
